@@ -1,6 +1,5 @@
 def sifra(ret:str,key:str):
     y = 0
-    z = 0
     n = ''
     for i in ret:
         w = y % len(key)
